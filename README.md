@@ -3,19 +3,22 @@
 [![ES](https://img.shields.io/badge/ES-Español-red)](README.es.md)
 
 ## What It Solves
-Build continuous integration pipelines
 
-## Usage
-/ci-cd-pipeline
+Build CI/CD pipelines with GitHub Actions, GitLab CI, or Jenkins.
 
-## Examples
-1. Example usage for devops
+## When It Activates
+
+- ci-cd, pipeline, GitHub Actions
 
 ## Prerequisites
-- OpenClaw agent
 
-## Limitations
-- Requires specific context
+- Appropriate access and tools
+- Related to devops context
+
+## Examples
+
+
 
 ## License
+
 MIT
